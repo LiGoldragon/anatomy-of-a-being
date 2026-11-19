@@ -1,0 +1,17 @@
+# Index by term
+
+- [agni](../terms/agni.md)
+- [apāna](../terms/apana.md)
+- [ojas](../terms/ojas.md)
+- [prāṇa](../terms/prana.md)
+- [puruṣa; pumān](../terms/purusa.md)
+- [samāna](../terms/samana.md)
+- [sattva](../terms/sattva.md)
+- [srotas](../terms/srotas.md)
+- [udāna](../terms/udana.md)
+- [vyāna](../terms/vyana.md)
+- [vāta; vāyu](../terms/vata.md)
+- [āma](../terms/ama.md)
+- [ātman](../terms/atman.md)
+- [āyus](../terms/ayus.md)
+- [śarīra](../terms/sarira.md)
