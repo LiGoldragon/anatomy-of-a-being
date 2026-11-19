@@ -35,3 +35,16 @@ Literal English: Mind, self and body: this triad is like a three-staff support. 
 ## Reading of the proposed English
 
 Body is faithful. Caraka’s three-member list does not explicitly say that indriya has been folded into śarīra; that is an interpretive proposal.
+
+## Chariot comparison
+
+[Kaṭha Upaniṣad 1.3.3](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_kathopaniSad.htm) is checked in GRETIL as KaU 3.3:
+
+```text
+ātmānaṃ rathinaṃ viddhi śarīraṃ ratham eva tu /
+buddhiṃ tu sārathiṃ viddhi manaḥ pragraham eva ca //
+```
+
+Literal English: Know the self as the chariot-owner, and the body as the chariot itself; know buddhi as the charioteer and the mind as the rein.
+
+Rathin is the chariot-owner/rider. The verse does not say that the rider issues destinations to the charioteer; that detail belongs to the proposal’s machine analogy.
