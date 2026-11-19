@@ -24,3 +24,10 @@ The initial assignment names a finite set of terms and quotations, not every def
 - Pāṇini 5.2.93, [Sanskrit Library](https://www.sanskritlibrary.org/grammatical/data/A.5.2.93.html), compared with the GRETIL Aṣṭādhyāyī.
 
 GRETIL’s transformed e-text pages state CC BY-NC-SA 4.0. Their quotations retain that source attribution and license; the original explanatory prose here is CC BY-SA 3.0. This repository does not relicense a source’s editorial contribution. The ancient Sanskrit wording is distinct from modern editorial apparatus.
+
+## Supplementary texts and grammar
+
+- Pāṇini 3.3.41 and 5.2.91, checked in The Sanskrit Library; the [Kāśikāvṛtti](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/1_gram/jvkasixu.htm) was read at the corresponding entries for the suffix and substitutions.
+- [Pātañjalayogaśāstra](https://github.com/sarit/SARIT-corpus/blob/1eac9ee0b055c8d11147edac4a75c76008ccc363/patanjalayogasastra.xml), sūtra and Bhāṣya on 1.2: Philipp Maas’s SARIT transcription of the Āgāśe 1904 Ānandāśrama edition, CC BY-SA 3.0.
+- [Vācaspati’s Tattvavaiśāradī](https://github.com/sarit/SARIT-corpus/blob/1eac9ee0b055c8d11147edac4a75c76008ccc363/vacaspati-tattvavaisaradi.xml), on 1.7 and 2.20: SARIT, e-text by the Young Buddhist Association of the University of Tokyo, based on the 2004 reprint of Āgāśe’s edition, CC BY-SA 3.0.
+- [Aṣṭāṅgahṛdayasaṃhitā](https://github.com/sarit/SARIT-corpus/blob/1eac9ee0b055c8d11147edac4a75c76008ccc363/astangahrdayasamhita.xml), 13.25–27: Rahul Peter Das and Ronald Eric Emmerick’s text, subsequently printed in 1998; SARIT TEI conversion by Richard Mahoney and maintenance by Patrick McAllister and Dominik Wujastyk, CC BY-SA 3.0. These supplementary texts are identified where used, rather than attributed to the original three requested sources.

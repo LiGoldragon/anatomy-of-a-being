@@ -4,7 +4,21 @@ English candidates: **body; aggregate**.
 
 ## Root and derivation
 
-**Root checked:** Dhātupāṭha 5.5, `ciñ cayane`: ci in gathering/heaping. [Text](https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html). This checks the root entry, not a complete derivation of the noun. The complete derivation from ci to kāya, including vowel changes and affix, remains unchecked.
+**Checked:** Dhātupāṭha 5.5, `ciñ cayane`, gives gathering/heaping. Pāṇini 3.3.41 reads:
+
+```text
+nivāsacitiśarīropasamādhāneṣv ādeś ca kaḥ
+```
+
+[The Sanskrit Library](https://www.sanskritlibrary.org/grammatical/data/A.3.3.41.html). Literal: in [the senses of] dwelling, fire-pile, body and heaping, also k [replaces] the initial [sound]. The root and suffix are supplied by the grammatical context, not by these words alone.
+
+The [Kāśikāvṛtti on 3.3.41](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/1_gram/jvkasixu.htm) explicitly explains:
+
+```text
+eteṣv artheṣu cinoteḥ ghañ pratyayaḥ bhavati, dhātor ādeś ca kakāra ādeśaḥ /
+```
+
+Literal: In these senses the suffix ghañ occurs after ci, and the sound k replaces the initial sound of the root. The commentary gives `śarīre — anityakāyaḥ`, in [the sense of] body, “having a perishable body”. Thus the proposed root connection is textually supported; “heap” remains only one possible contextual sense. The complete sequence of vowel rules is not expanded here.
 
 ## Textual evidence
 
@@ -12,4 +26,4 @@ English candidates: **body; aggregate**.
 
 ## Reading of the proposed English
 
-Assemblage is an explanatory possibility; body is safer in medical use. A root entry alone does not prove “the heap” as the literal translation. A defining passage remains unchecked.
+Body is directly supported by Pāṇini’s śarīra sense and the Kāśikā example. Assemblage belongs among the word’s other uses; it should not replace body in every medical occurrence. The derivation is checked through the root, suffix and initial substitution, rather than inferred from a similar-sounding verb.

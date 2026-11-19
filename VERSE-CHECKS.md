@@ -9,6 +9,6 @@
 | Gītā’s field list | 13.5–6 here, 13.6–7 with the extra opening question. Includes mental functions and unmanifest nature, not only the physical body. | [kṣetra](terms/ksetra.md) |
 | Sāṃkhya buddhi as adhyavasāya | Explicit in Kārikā 23. | [buddhi](terms/buddhi.md) |
 | Sāṃkhya inner instrument | Threefold in Kārikā 33; the prior definitions of 23, 24 and 27 identify the three. | [antaḥkaraṇa](terms/antahkarana.md) |
-| Self reflected in intellect | Not stated in that form in the checked root verses. Kārikā 20 says the unconscious liṅga is as if conscious through conjunction. A reflection doctrine requires a named commentary and checked passage. | [buddhi](terms/buddhi.md) |
+| Self reflected in intellect | Not stated in that form in the root verses. Kārikā 20 says the unconscious liṅga is as if conscious through conjunction. Reflection is now checked explicitly in Vācaspati’s Tattvavaiśāradī on Yogasūtra 1.7 and 2.20; this is a commentary, not the Kārikā itself. | [buddhi](terms/buddhi.md) |
 
 The chariot, tripod and field analyses are different textual models, not one interchangeable doctrine. The proposed machine correspondences remain design proposals.

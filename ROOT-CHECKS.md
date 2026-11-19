@@ -8,7 +8,7 @@ The two proposal tables often give a root and then translate the noun by the roo
 | [ātman](terms/atman.md) | √an; alternatively Yāska √at/√āp | Nirukta 3.15 checks atati/āp explanations. DP 1.38 checks continuous motion for at. Historical breath etymology and Atem cognacy remain unchecked; the alternatives are not one demonstrated derivation. |
 | [puruṣa](terms/purusa.md) | puri śete | Nirukta 2.3 checks puri ṣādaḥ, puri śayaḥ, pūrayater vā. A traditional nirvacana, not a proven historical origin. |
 | [kṣetrajña](terms/ksetrajna.md) | kṣetra + √jñā | Compound sense is confirmed by Gītā 13.1; DP 9.43 checks jñā in understanding. Complete noun formation open. |
-| [sākṣin](terms/saksin.md) | sa + akṣa | Incomplete derivation: the suffix and vowel length require proof. Witness is supported by SK 19 sākṣitva. |
+| [sākṣin](terms/saksin.md) | sa + akṣa | P 5.2.91 and Kāśikā derive sākṣin from sākṣāt with ini. The proposal’s simple split omits this formation. Witness is also supported by SK 19 sākṣitva. |
 | [manas](terms/manas.md) | √man | DP 4.73 mana jñāne; 8.9 manu avabodhane. Roots checked. Mind is the contextual noun; cognacy with English/Latin unchecked. |
 | [buddhi](terms/buddhi.md) | √budh | DP 4.68 checks understanding; P 3.3.94 checks the general ktin rule. SK 23 defines determination. “Awakeness” is not the technical definition. |
 | [ahaṃkāra](terms/ahamkara.md) | aham + √kṛ | DP 8.10 checks kṛ in making. SK 24 defines abhimāna. I-making/self-appropriation is preferable to making the root gloss the whole doctrine. |
@@ -26,7 +26,7 @@ The two proposal tables often give a root and then translate the noun by the roo
 | [śruti](terms/sruti.md) | √śru, what was heard | Same checked root. Śruti is not itself the past participle śruta; hearing/revelation is safer than making it a participle. |
 | [śarīra](terms/sarira.md) | √śṝ, wear away | Nirukta 2.16/3.5 supplies śṛṇāti or śamnāti alternatives. The proposal gives only one explanatory path. Full historical etymology open. |
 | [deha](terms/deha.md) | √dih, smear/mould | DP 2.5 gives diha upacaye, in increase/accumulation. Root support exists, but the proposed gloss differs from this entry. Full noun derivation open. |
-| [kāya](terms/kaya.md) | √ci, heap | DP 5.5 ciñ cayane checks gathering. The vowel/affix steps to kāya still need proof. |
+| [kāya](terms/kaya.md) | √ci, heap | DP 5.5 ciñ cayane checks gathering; P 3.3.41 and Kāśikā check ghañ and initial c-to-k in the body sense. Complete vowel-rule expansion is not given. |
 | [kṣetra](terms/ksetra.md) | √kṣi, dwell/possess | Full derivation unchecked. Field is directly confirmed in Gītā 13.1; “place dwelt in” remains an etymological gloss. |
 | [prakṛti](terms/prakrti.md) | pra + √kṛ | DP 8.10 and P 3.3.94 provide root/general-suffix support. Root nature and all its products must be distinguished in Sāṃkhya. |
 | [prāṇa](terms/prana.md) | pra + √an | DP 2.64–65 checks an in breathing through anuvṛtti. Full noun derivation open. Medical intake includes food. |

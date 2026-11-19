@@ -1,5 +1,6 @@
 # Index by text
 
+- **Aṣṭāṅgahṛdayasaṃhitā, Sūtrasthāna 13.25–26**: [āma](../terms/ama.md)
 - **Bhagavad Gītā 13.1 (critical-text numbering)**: [kṣetra](../terms/ksetra.md), [kṣetrajña](../terms/ksetrajna.md)
 - **Bhagavad Gītā 13.5–6 (critical-text numbering)**: [kṣetra](../terms/ksetra.md)
 - **Caraka Saṃhitā, Cikitsāsthāna 15.5**: [agni](../terms/agni.md)
@@ -10,6 +11,7 @@
 - **Caraka Saṃhitā, Vimānasthāna 5.3 (defining sentence)**: [srotas](../terms/srotas.md)
 - **Kaṭha Upaniṣad 1.3.3 (GRETIL KaU 3.3)**: [buddhi](../terms/buddhi.md), [manas](../terms/manas.md)
 - **Kaṭha Upaniṣad 1.3.4 (GRETIL KaU 3.4)**: [indriya](../terms/indriya.md), [viṣaya](../terms/visaya.md)
+- **Pātañjalayogaśāstra, sūtra 1.2 and its Bhāṣya**: [citta](../terms/citta.md)
 - **Suśruta Saṃhitā, Nidānasthāna 1.12**: [vāta; vāyu](../terms/vata.md)
 - **Suśruta Saṃhitā, Nidānasthāna 1.13**: [prāṇa](../terms/prana.md)
 - **Suśruta Saṃhitā, Nidānasthāna 1.14–15**: [udāna](../terms/udana.md)
@@ -28,9 +30,10 @@
 - **Sāṃkhya Kārikā 26**: [indriya](../terms/indriya.md), [jñānendriya](../terms/jnanendriya.md), [karmendriya](../terms/karmendriya.md), [pāda](../terms/pada.md), [pāṇi](../terms/pani.md), [śrotra](../terms/srotra.md), [vāc (vāk in the cited verse)](../terms/vak.md)
 - **Sāṃkhya Kārikā 27**: [antaḥkaraṇa](../terms/antahkarana.md), [manas](../terms/manas.md)
 - **Sāṃkhya Kārikā 33**: [antaḥkaraṇa](../terms/antahkarana.md), [viṣaya](../terms/visaya.md)
+- **Vācaspati Miśra, Tattvavaiśāradī on Yogasūtra 2.20**: [buddhi](../terms/buddhi.md)
 
 ## Grammatical sources
 
 - Nirukta 2.3: [puruṣa](../terms/purusa.md); 2.16/3.5: [śarīra](../terms/sarira.md); 3.15: [ātman](../terms/atman.md).
-- Pāṇini 5.2.93: [indriya](../terms/indriya.md).
-- Dhātupāṭha entries: see each page’s root-and-derivation section.
+- Pāṇini 3.3.41: [kāya](../terms/kaya.md); 5.2.91: [sākṣin](../terms/saksin.md); 5.2.93: [indriya](../terms/indriya.md).
+- Dhātupāṭha and other affix rules: each term’s root-and-derivation section.
