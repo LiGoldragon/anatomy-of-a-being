@@ -8,6 +8,8 @@ English candidates: **body; aggregate**.
 
 ## Textual evidence
 
+**Unchecked:** no defining primary-text passage has yet been verified for this page.
+
 ## Reading of the proposed English
 
 Assemblage is an explanatory possibility; body is safer in medical use. A root entry alone does not prove “the heap” as the literal translation. A defining passage remains unchecked.

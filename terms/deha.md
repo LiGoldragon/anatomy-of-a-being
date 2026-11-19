@@ -8,6 +8,8 @@ English candidates: **body; bodily frame**.
 
 ## Textual evidence
 
+**Unchecked:** no defining primary-text passage has yet been verified for this page.
+
 ## Reading of the proposed English
 
 Body is the straightforward English. “What is moulded up” is an etymological image, not a checked definition. A defining verse remains unchecked.

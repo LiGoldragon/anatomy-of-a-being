@@ -8,6 +8,8 @@ English candidates: **hearing; received sacred revelation**.
 
 ## Textual evidence
 
+**Unchecked:** no defining primary-text passage has yet been verified for this page.
+
 ## Reading of the proposed English
 
 “What was heard” is a conventional explanatory gloss, but śruti is an action/result noun, not itself the past participle śruta. “Hearing” is morphologically closer. No defining verse has yet been checked.

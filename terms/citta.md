@@ -8,6 +8,8 @@ English candidates: **mind; thought**.
 
 ## Textual evidence
 
+**Unchecked:** no defining primary-text passage has yet been verified for this page.
+
 ## Reading of the proposed English
 
 The participial gloss is defensible; it does not follow that Yoga’s technical noun denotes only stored things already noticed. “Memory-ground” is an interpretation, not a literal translation. A defining Yoga passage is outside the initial three-text evidence set and has not yet been checked here.

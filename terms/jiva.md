@@ -8,6 +8,8 @@ English candidates: **living being; living one**.
 
 ## Textual evidence
 
+**Unchecked:** no defining primary-text passage has yet been verified for this page.
+
 ## Reading of the proposed English
 
 The living one is a reasonable lexical rendering. No defining occurrence from Caraka, Suśruta or Sāṃkhya Kārikā has yet been checked for this page. This root entry alone does not establish that jīva and ātman are interchangeable in every doctrine.
