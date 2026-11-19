@@ -4,7 +4,7 @@ English candidates: **mind; thought**.
 
 ## Root and derivation
 
-**Checked secondary lexical evidence:** Charles R. Lanman, A Sanskrit Reader, vocabulary p. 188, gives cittá, notice/thought/mind, literally “noticed”, √cit. [Digitized original](https://www.sanskrit-lexicon.uni-koeln.de/scans/LANScan/LANScanpdf/lan_188.pdf). Dhātupāṭha 1.39 reads `citī sañjñāne`, checked in its text. A full Pāṇinian participle derivation remains unchecked.
+**Checked secondary lexical evidence:** Charles R. Lanman, A Sanskrit Reader, printed vocabulary p. 156 (scan file lan_188.pdf), gives cittá, notice/thought/mind, literally “noticed”, √cit. [Digitized original](https://www.sanskrit-lexicon.uni-koeln.de/scans/LANScan/LANScanpdf/lan_188.pdf). Dhātupāṭha 1.39 reads `citī sañjñāne`, checked in its text. A full Pāṇinian participle derivation remains unchecked.
 
 ## Textual evidence
 

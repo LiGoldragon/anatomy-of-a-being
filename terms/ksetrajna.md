@@ -22,3 +22,7 @@ Literal English: This body, son of Kuntī, is called the field. Whoever knows it
 ## Reading of the proposed English
 
 Knower is faithful when the field is already understood. The field-knower is distinguished from the field; the verse does not allocate a machine department to either.
+
+## Further grammatical check
+
+**Checked root:** Dhātupāṭha 9.43, `jñā avabodhane`, in understanding ([text](https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html)). This confirms the knowing root, not every step of the compound’s derivation.

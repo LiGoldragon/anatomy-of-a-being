@@ -24,3 +24,7 @@ Literal English: Mind, self and body: this triad is like a three-staff support. 
 ## Reading of the proposed English
 
 Mind suits sattva in this medical triad. The term’s Sāṃkhya guṇa use must be distinguished from that sense.
+
+## Further grammatical check
+
+**Checked:** Dhātupāṭha 2.60, `asa bhuvi`, gives as in being ([text](https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html)). Pāṇini 5.1.119 reads `tasya bhāvas tvatalau`, [Sanskrit Library](https://www.sanskritlibrary.org/grammatical/data/A.5.1.119.html): tva and tal express the state of that. This supports the sat + tva abstract-noun analysis; the derivation of sat itself is not fully expanded here. “Being-ness” is an etymological gloss, not the contextual meaning of Caraka’s mind.

@@ -22,3 +22,7 @@ Literal English: The cognitive faculties are named eye, ear, nose, tongue and sk
 ## Reading of the proposed English
 
 Speech is correct; vāk is not a distinct root from vāc.
+
+## Further grammatical check
+
+**Checked root:** Dhātupāṭha 2.58 has `vaca paribhāṣaṇe`, in speaking ([text](https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html)); the noun’s declension and zero-affix formation have not yet been fully traced.

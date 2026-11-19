@@ -21,3 +21,7 @@ Literal English: Wind moving in the mouth is named prāṇa, sustaining the body
 ## Reading of the proposed English
 
 Intake captures entry of food, but omits its sustaining functions. The proposal’s restriction to the living’s words is a design choice. SARIT represents elided initial vowels by `+`; that editorial notation is retained. Anusvāra glyph ṁ is normalized to ṃ.
+
+## Further grammatical check
+
+**Checked root:** Dhātupāṭha 2.64–65 reads `śvasa prāṇane / ana ca` ([text](https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html)); the “and” carries the preceding sense, breathing, to an. Thus pra + √an has a checked root basis. The noun affix and retroflexion have not yet been fully traced through the grammar. “Breathing forth” is a morphological gloss; the medical subtype also admits food, as the quoted Suśruta passage shows.

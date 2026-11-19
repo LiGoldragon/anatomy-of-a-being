@@ -21,3 +21,7 @@ Literal English: Channels are indeed the conveyers of the bodily constituents un
 ## Reading of the proposed English
 
 “A channel in which something of the body travels” is a defensible simplification. This is prose, not a metrical verse. The channels of a computing system are an analogy.
+
+## Further grammatical check
+
+**Checked root:** Dhātupāṭha 1.1090 has `sru gatau`, in going/motion ([text](https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html)); the full nominal derivation remains unchecked.

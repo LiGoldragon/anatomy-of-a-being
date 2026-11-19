@@ -44,3 +44,7 @@ Literal English: Therefore, from conjunction with that, the unconscious subtle b
 ## Reading of the proposed English
 
 The proposal correctly cites determination (adhyavasāya). Discernment is a reasonable functional name; “the Awake” is too loose. Kārikā 20 says “as if conscious”; the stronger claim of a reflected copy of the self is not stated there and needs a named commentary.
+
+## Further grammatical check
+
+**Checked general suffix rule:** Pāṇini 3.3.94, `striyāṃ ktin`, [Sanskrit Library](https://www.sanskritlibrary.org/grammatical/data/A.3.3.94.html), supplies ktin in the feminine. This supports analysis as a feminine action/state noun from budh, not the English adjective “awake”. A full derivation must also account for the consonant changes; that proof is not claimed here.

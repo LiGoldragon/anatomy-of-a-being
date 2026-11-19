@@ -21,3 +21,7 @@ Literal English: Prāṇa and udāna, samāna, vyāna and apāna: the five winds
 ## Reading of the proposed English
 
 “Movement” names a characteristic function, not a literal lexical equivalent. The five types differ by seat and function, not by direction alone. The passage does not establish that every bodily process is carried by a single force.
+
+## Further grammatical check
+
+**Checked root:** Dhātupāṭha 2.45, `vā gatigandhanayoḥ` ([text](https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html)), gives motion and gandhana. This checks the proposed wind/movement root connection, not the complete formation of either vāta or vāyu.

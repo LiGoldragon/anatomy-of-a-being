@@ -48,3 +48,7 @@ buddhiṃ tu sārathiṃ viddhi manaḥ pragraham eva ca //
 Literal English: Know the self as the chariot-owner, and the body as the chariot itself; know buddhi as the charioteer and the mind as the rein.
 
 Rathin is the chariot-owner/rider. The verse does not say that the rider issues destinations to the charioteer; that detail belongs to the proposal’s machine analogy.
+
+## Further grammatical check
+
+For the root named by Yāska’s `atateḥ`, Dhātupāṭha 1.38 reads `ata sātatyagamane`, in continuous movement ([text](https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html)). This confirms the proposal’s “move always” as a traditional root gloss. It does not prove an Indo-European historical derivation of ātman from that root.

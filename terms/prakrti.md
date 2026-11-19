@@ -22,3 +22,7 @@ Literal English: From prakṛti comes the great principle; from that I-making; f
 ## Reading of the proposed English
 
 Nature is conventional; “making-forth” is an etymological gloss. The root prakṛti is distinguished from its evolutes; calling it simply everything other than the witness blurs that technical distinction.
+
+## Further grammatical check
+
+Pāṇini 3.3.94, `striyāṃ ktin`, [Sanskrit Library](https://www.sanskritlibrary.org/grammatical/data/A.3.3.94.html), is the checked general feminine suffix rule relevant to kṛti. The complete derivation is still not expanded.
