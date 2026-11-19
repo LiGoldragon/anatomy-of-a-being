@@ -19,6 +19,14 @@ svedāsṛksrāvaṇaścāpi pañcadhā ceṣṭayatyapi/ kruddhaśca kurute rog
 
 Literal English: [Samāna disturbed] causes abdominal masses, sinking digestive fire, diarrhoea and similar diseases. Vyāna moves through the whole body, intent on conveying rasa; it also causes sweat and blood to flow and produces movement in five ways. When angry it generally causes diseases of the whole body.
 
+### Caraka Saṃhitā, Cikitsāsthāna 28.9
+
+Status: **checked against the Sanskrit e-text**, not collated against a manuscript or printed scan. [Text](https://github.com/sarit/SARIT-corpus/blob/1eac9ee0b055c8d11147edac4a75c76008ccc363/carakasamhita.xml).
+
+Literal English of the passage: Vyāna, moving swiftly, pervades the whole human body; its actions always include locomotion, extension, throwing or projection, and blinking.
+
+Comparison: The whole-body extent agrees with Suśruta; Caraka foregrounds movements, while Suśruta also names conveyance of rasa and the flow of sweat and blood. Distribution is a useful selection from this wider account.
+
 ## Reading of the proposed English
 
 Distribution is a supported functional simplification. The seat is the whole body, not a single central organ. Verse 17 begins with the preceding wind’s disorders. SARIT represents elided initial vowels by `+`; that editorial notation is retained. Anusvāra glyph ṁ is normalized to ṃ.
